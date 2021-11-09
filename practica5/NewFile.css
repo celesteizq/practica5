@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+body {
+	background-color: rgb(191, 202, 213);
+}
+
+#p {
+	background-color: lightGrey;
+	color: black;
+	font-style: "Times New Roman", Times, serif;
+}
+
+.h1 {
+	color: black;
+	text-align: center;
+}
+
+.h2 {
+	background-color: Grey;
+	color: black;
+	font-weight: bold;
+	font-style: "Times New Roman", Times, serif;
+	text-decoration: underline;
+}
+
+
+.h3 {
+	background-color: Grey;
+	color: black;
+	font-weight: bold;
+	font-style: "Times New Roman", Times, serif;
+	text-decoration: underline;
+}
+
+
+.right {
+	background-color: white;
+	text-align: right;
+	color: black;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.enfasis {
+	
+	color: hsl(200, 100%, 30%);
+	
+}
+
+.enfasis_strong {
+	
+	color: hsl(200, 100%, 30%);
+	font-weight: bold;
+}
+
+.enfasis_strong1 {
+	
+	color:blue;
+	font-weight: bold;
+	font-size: smaller;
+}
+	
+.pie {
+	
+	font-size: smaller;
+	text-align: center;
+	background-color: white;
+}
+
+.italic {
+	
+	font-style: italic;
+}
